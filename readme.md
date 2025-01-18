@@ -1,6 +1,6 @@
 # Site 3
 
-This is Site 3. If you want to go to Site 2 and Site 1, please refer to the [README.md](../../README.md) in the main repository, and it will be there.
+This is Site 3. If you want to go to Site 2 and Site 1, please refer to the [README.md](https://github.com/Nintendoboi2222/nintendoboi2222.github.io/blob/main/README.md) in the main repository, and it will be there.
 
 ![download](https://github.com/user-attachments/assets/ecba5956-f86d-4413-bbf4-c382b3eed0b8)
 ![download](https://github.com/user-attachments/assets/bb4ef752-d46f-439e-8f94-736c8abf90fc)
